@@ -30,7 +30,7 @@ export const initialData: SeedData = {
   users: [
     {
       email: 'test1@gmail.com',
-      fullName: 'test 2',
+      fullName: 'test 1',
       password: 'Abc123',
       roles: ['admin'],
     },
